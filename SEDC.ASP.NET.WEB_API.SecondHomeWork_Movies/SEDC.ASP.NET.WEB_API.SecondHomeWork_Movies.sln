@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.ASP.NET.WEB_API.SecondHomeWork_Movies", "SEDC.ASP.NET.WEB_API.SecondHomeWork_Movies\SEDC.ASP.NET.WEB_API.SecondHomeWork_Movies.csproj", "{DDC241BC-F304-4806-86A6-3BB1FA8175BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC241BC-F304-4806-86A6-3BB1FA8175BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC241BC-F304-4806-86A6-3BB1FA8175BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC241BC-F304-4806-86A6-3BB1FA8175BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC241BC-F304-4806-86A6-3BB1FA8175BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EAA586-C1D8-4E72-A189-FC2B299E372E}
+	EndGlobalSection
+EndGlobal

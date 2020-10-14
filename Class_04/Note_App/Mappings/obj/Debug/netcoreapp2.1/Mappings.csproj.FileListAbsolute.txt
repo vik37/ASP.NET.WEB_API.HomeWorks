@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Mappings.deps.json
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Mappings.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Mappings.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.AssemblyInfo.cs
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Domain_Models.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\DTO_Models.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\DTO_Models.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Domain_Models.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\obj\Debug\netcoreapp2.1\Mappings.csproj.CopyComplete
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\Mappings\bin\Debug\netcoreapp2.1\Data.pdb

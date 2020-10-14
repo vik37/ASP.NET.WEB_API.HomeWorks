@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\DTO_Models.deps.json
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\DTO_Models.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\DTO_Models.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.AssemblyInfo.cs
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\Domain_Models.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\Domain_Models.pdb
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\obj\Debug\netcoreapp2.1\DTO_Models.csproj.CopyComplete
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\vikto\source\repos\WebApi\School\Class_04\Note_App\DTO_Models\bin\Debug\netcoreapp2.1\Data.pdb
